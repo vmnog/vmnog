@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 👯 My main skills are React JS, React Native and Node.js
 - 💬 I can also handle projects with Typescript, GraphQL and TypeORM
 - 📫 How to reach me: vmnogueira.ti@gmail.com
-- 😄 You can call me as: Victor 
+- 😄 You can call me as: Victor Nogueira
 
