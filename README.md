@@ -3,9 +3,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on finishing my portfolio
-- 🌱 I’m currently learning Typescript, GraphQL and TypeORM
+- 🌱 I’m currently learning Next.js, Jest and Storybook
 - 👯 My main skills are React JS, React Native and Node.js
-- 💬 Ask me about coffee, cats, lol, animes or cigars
+- 💬 I can also handle projects with Typescript, GraphQL and TypeORM
 - 📫 How to reach me: vmnogueira.ti@gmail.com
 - 😄 You can call me as: Victor 
 
