@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on finishing my portfolio
+- 🔭 I currently work for AitiaLabs 
 - 🌱 I’m currently learning Next.js, Jest and Storybook
 - 👯 My main skills are React JS, React Native and Node.js
 - 💬 I can also handle projects with Typescript, GraphQL and TypeORM
