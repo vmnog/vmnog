@@ -1,9 +1,3 @@
-### Hi there 👋
+# vmnog | Victor Nogueira
 
-Below some quickly informations about me:
- 
-- 🌱 I’m currently learning Rust, trpc and new Next.js features
-- 👯 My main skills are Typescript, Angular, React JS, React Native and Node.js
-- 📫 How to reach me: vmnogueira.ti@gmail.com
-- 😄 You can call me as: Victor Nogueira
-
+Everything you need to know about me: https://vmnog.com/
