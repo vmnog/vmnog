@@ -1,6 +1,6 @@
 # Victor Nogueira
 
-[![Instagram Badge](https://img.shields.io/badge/-@caraquecoda-A288E3?style=flat-square&labelColor=A288E3&logo=instagram&logoColor=white&link=https://instagram.com/caraquecoda)]() 
+[![Instagram Badge](https://img.shields.io/badge/-@caraquecoda-A288E3?style=flat-square&labelColor=A288E3&logo=instagram&logoColor=white&link=https://instagram.com/caraquecoda)](https://www.instagram.com/caraquecoda) 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Nogueira-A288E3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vmnogueira/)](https://www.linkedin.com/in/vmnogueira/) 
 [![Gmail Badge](https://img.shields.io/badge/-vmnogueira.ti@gmail.com-A288E3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmnogueira.ti@gmail.com)](mailto:vmnogueira.ti@gmail.com)
 
