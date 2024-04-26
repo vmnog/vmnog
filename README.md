@@ -8,3 +8,5 @@ With more than 6 years of experience in various cutting-edge technologies and cl
 
 Passionate about leveraging technology to solve complex problems, enhance business operations, and drive innovation in the digital world. My expertise in full-stack development, cloud services, and leading tech teams has enabled the successful execution of numerous projects, impacting businesses and their customers positively.
 
+YT Channel: [@caraquecoda](https://www.youtube.com/@caraquecoda)
+
